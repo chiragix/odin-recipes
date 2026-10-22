@@ -1,0 +1,27 @@
+body {
+  font-family: "Times New Roman" ,sans-serif;
+  font-size: 16px;
+}
+
+.heading {
+  text-align: center;
+  padding: 5px;
+}
+
+li {
+  font-size: 24px;
+}
+
+
+
+strong,
+em,
+a {
+  color: #1cacd7;
+}
+
+h2 {
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+}
